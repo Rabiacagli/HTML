@@ -17,4 +17,4 @@ Bu proje, HTML kullanarak basit bir "Hayvanlar Alemi" web sayfası oluşturmayı
 
 ## Web Tarayıcı Görüntüsü
 
-![tablo](images/Web.png)
+![tablo](images/web.png)
